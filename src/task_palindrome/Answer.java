@@ -11,7 +11,7 @@ public class Answer {
 
     public static void checkPalindrome(String inWord) {
         String outWord = new String(inWord);
-        String symbol = ".,?!()/";
+        String symbol = ".,:?!()/";
 
         for(char delSymbol : symbol.toCharArray()) {
             inWord = inWord.replace(delSymbol, ' ');
