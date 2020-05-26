@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eed897af-a324-45ce-bf7b-5c7c64464e09" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tasks/task_palindrome/Answer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tasks/task_palindrome/Answer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/task_99_Bottles_of_Beer/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_99_Bottles_of_Beer/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task_palindrome/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task_Palindrome/Answer.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Answer (1)">
+  <component name="RunManager" selected="Application.Answer (2)">
     <configuration name="Answer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="task_99_Bottles_of_Beer.Answer" />
       <module name="Tasks" />
@@ -60,12 +63,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_palindrome.Answer" />
+    <configuration name="Answer (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_General_words.Answer" />
       <module name="Tasks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_palindrome.*" />
+          <option name="PATTERN" value="task_General_words.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_Palindrome.Answer" />
+      <module name="Tasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task_Palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Answer (2)" />
         <item itemvalue="Application.Answer (1)" />
         <item itemvalue="Application.Answer" />
         <item itemvalue="Application.Temp" />
@@ -107,7 +124,7 @@
       <workItem from="1590287357158" duration="805000" />
       <workItem from="1590304557060" duration="11206000" />
       <workItem from="1590399316777" duration="1121000" />
-      <workItem from="1590442068129" duration="1453000" />
+      <workItem from="1590442068129" duration="7544000" />
     </task>
     <task id="LOCAL-00001" summary="add new workspace.xml">
       <created>1590400305298</created>
@@ -116,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590400305298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add code, test and correct code.">
+      <created>1590443561065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590443561065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +161,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add new workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new workspace.xml" />
+    <MESSAGE value="add code, test and correct code." />
+    <option name="LAST_COMMIT_MESSAGE" value="add code, test and correct code." />
   </component>
 </project>
