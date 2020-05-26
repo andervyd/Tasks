@@ -7,3 +7,5 @@
 
 > **"Think of the name of your book!"**
 
+![Image Generation](https://github.com/andervyd/Tasks/blob/master/src/assets/images/task_generation.png)
+
