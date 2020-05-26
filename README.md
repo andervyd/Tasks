@@ -1,7 +1,7 @@
 ## Tasks:
-> -**Palindrome** 
+> **Palindrome** 
 
-> -**99 Bottles of Beer**
+> **99 Bottles of Beer**
 
-> -**"Think of the name of your book!"**
+> **"Think of the name of your book!"**
 
