@@ -1,6 +1,8 @@
 ## Tasks:
 > **Palindrome** 
 
+![Image 99 Bottles](https://github.com/andervyd/Tasks/blob/master/src/assets/images/task_palindrome.png)
+
 > **99 Bottles of Beer**
 
 ![Image 99 Bottles](https://github.com/andervyd/Tasks/blob/master/src/assets/images/task_99_bottles.png)
