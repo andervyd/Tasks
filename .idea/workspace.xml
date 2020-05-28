@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eed897af-a324-45ce-bf7b-5c7c64464e09" name="Default Changelist" comment="" />
+    <list default="true" id="eed897af-a324-45ce-bf7b-5c7c64464e09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
@@ -127,7 +129,8 @@
       <workItem from="1590399316777" duration="1121000" />
       <workItem from="1590442068129" duration="7999000" />
       <workItem from="1590469327937" duration="598000" />
-      <workItem from="1590476326885" duration="1834000" />
+      <workItem from="1590476326885" duration="2671000" />
+      <workItem from="1590638201557" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="add new workspace.xml">
       <created>1590400305298</created>
